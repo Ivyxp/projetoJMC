@@ -6,7 +6,7 @@
 
 ### Instale o django com o comando `pip install django`
 
-### Acesse o diretorio principal ´cd projetoJMC´ depois a pasta principal com o `cd Python-main`
+### Acesse o diretorio principal `cd projetoJMC` depois a pasta principal com o `cd Python-main`
 
 ## Execulte o projeto com o comando `python manage.py runserver` 
 
